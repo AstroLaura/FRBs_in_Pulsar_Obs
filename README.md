@@ -40,6 +40,10 @@ Part of this code was originally devoloped by
 I adapted <a href="https://github.com/BezuidenhoutMC/MosaicUtils/blob/master/Primary_plotter.py">Primary_plotter.py</a>
 to calculate the shape of the primary beam on the sky.
 
+## Requirements
+
+You will need python 3, numpy, astropy, and argparse to run the python script (plus jupyter notebook to run the notebook).
+
 ## What's in this respository
 
 <ul>
