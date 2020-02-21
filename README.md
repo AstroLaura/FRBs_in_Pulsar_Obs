@@ -53,7 +53,7 @@ to calculate the shape of the primary beam on the sky.
 This is a download of the <a href="https://www.atnf.csiro.au/research/pulsar/psrcat/">ATNF</a> catalogue.
 
 #### frbcat_20200129.csv
-This is a download of <a href="http://frbcat.org/">FRBcat</a> on 2020 February 29 using the <tt>download</tt> button
+This is a download of <a href="http://frbcat.org/">FRBcat</a> on 2020 January 29 using the <tt>download</tt> button
 on the website.
 
 #### Match_FRBs_with_Pulsars.ipynb
